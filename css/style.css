@@ -243,7 +243,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
 }
 .prod__subtitle:after {
-  content: url();
+  content: '';
   position: absolute;
   top: 75px;
   height: 2px;
@@ -252,7 +252,7 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #ff2d2d;
   margin: 0 0 0 -150px;
   box-shadow: 1px 5px 10px #ff2d2d;
-  border: 1px solid transparent;
+  
 }
 
 .prod__menu-element {
@@ -316,7 +316,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
 }
 .subtitleone:after {
-  content: url();
+  content: '';
   position: absolute;
   top: 75px;
   height: 2px;
@@ -325,7 +325,7 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #ff2d2d;
   margin: 0 0 0 -273px;
   box-shadow: 1px 5px 10px #ff2d2d;
-  border: 1px solid transparent;
+  
 }
 
 .prod__team {
@@ -493,7 +493,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
 }
 .last__subtitle:after {
-  content: url();
+  content: '';
   position: absolute;
   top: 100px;
   height: 2px;
@@ -502,7 +502,7 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #ff2d2d;
   margin: 0 0 0 -350px;
   box-shadow: 1px 5px 10px #ff2d2d;
-  border: 1px solid transparent;
+  
 }
 
 .last__formaone {
